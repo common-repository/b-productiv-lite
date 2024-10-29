@@ -1,0 +1,146 @@
+<style type="text/css">
+	table#bproductivt 
+	{
+		background-color:#E3E3E3;
+		border: solid #000000 1px;
+		width: 100%;
+	}
+	table#bproductivt td 
+	{
+		padding: 5px;
+		border: solid #FFFFFF 0px;
+	}
+	table#bproductivt50 
+	{
+		background-color:#E3E3E3;
+		border: solid #000000 1px;
+		width: 100%;
+	}
+	table#bproductivt50 td 
+	{
+		padding: 5px;
+		border: solid #FFFFFF 0px;
+	}
+	table#innertable 
+	{
+		background-color:#E3E3E3;
+		border: solid #000000 1px;
+		width: 100%;
+	}
+	table#innertable td 
+	{
+		padding: 5px;
+		border: solid #FFFFFF 0px;
+	}
+	table#menu_outer 
+	{
+		background-color:#FFFFFF;
+		border: solid #FFFFFF 0px;
+		width: 100%;
+	}
+	table#menu_outer td 
+	{
+		padding: 5px;
+		border: solid #FFFFFF 0px;
+
+	}
+	table#calendar_menu 
+	{
+		background-color:#FFFFFF;
+		border: solid #FFFFFF 0px;
+		width: 60%;
+	}
+	table#calendar_menu td 
+	{
+		padding: 5px;
+		border: solid #FFFFFF 0px;
+	}
+	table#footer 
+	{
+		background-color:#FFFFFF;
+		border: solid #FFFFFF 0px;
+		width: 90px;
+	}
+	table#footer td 
+	{
+		padding: 0px;
+		border: solid #FFFFFF 0px;
+	}
+	tr.bproductivh 
+	{
+		font-family: Arial, Helvetica, sans-serif; 
+		font-size: 2;
+		text-align: center;
+		background-color:#000000;
+		color: #FFFFFF;
+	}
+	td.bproductivhd
+	{
+		text-align: center;
+		border: solid #FFFFFF 0px;
+	}
+	tr.odd
+	{
+		background-color:#E3E3E3;
+	}
+
+	tr.even
+	{
+		background-color:#FFFFFF;
+	}
+
+	td.todo_column1 /* main */
+	{
+		width: 5%;
+	}
+	td.todo_add_column1
+	{
+		width: 25%;
+		background-color:#000000;
+		color: #FFFFFF;
+	}
+	td.calendar_main_column1
+	{
+		width: 23%;
+	}
+	td.calendar_add_column1
+	{
+		width: 25%;
+		background-color:#000000;
+		color: #FFFFFF;
+	}
+	td.team_mem_column1
+	{
+		width: 25%;
+		background-color:#000000;
+		color: #FFFFFF;
+	}
+	td.bottom_menu
+	{
+		width: 33%;
+		background-color:#FFFFFF;
+	}
+	td.today
+	{
+		background-color:#FFCCCC;
+	}
+	td.day
+	{
+		background-color:#000000;
+		color: #FFFFFF;
+		text-align: center;
+	}
+	td.left_side_menu
+	{
+		width: 50%;
+	}
+	.required_fields
+	{
+		color: #FF0000;
+		font-size: 1;
+	}
+	.page .entry-title 
+	{
+		 display: none;
+	}
+</style>
